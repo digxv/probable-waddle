@@ -1,7 +1,7 @@
 {
-    "name": "title",
-    "description": "description",
-    "image": "ar://${imgTx.id}",
+    "name": "SUPER #1",
+    "description": "random super desc",
+    "image": "https://pbs.twimg.com/profile_images/1507200361660284928/i4hBjEIo_400x400.jpg",
     "external_url": "https://monument.app",
     "attributes": [
         {
