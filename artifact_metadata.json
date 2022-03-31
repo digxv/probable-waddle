@@ -1,0 +1,22 @@
+{
+    "name": "title",
+    "description": "description",
+    "image": "ar://${imgTx.id}",
+    "external_url": "https://monument.app",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "Date",
+            "value": 30932894
+        },
+        {
+            "properties": {
+                "array_property": {
+                    "name": "Tags",
+                    "value": ["music", "slow mo", "vibe"],
+                    "class": "emphasis"
+                }
+            }
+        }
+    ]
+}
